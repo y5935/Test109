@@ -28,10 +28,5 @@ public class User {
 	public User() {
 		super();
 	}
-	@Override
-	public String toString() {
-		return "User [name=" + name + ", age=" + age + "]";
-	}
-	
 	
 }
