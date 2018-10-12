@@ -1,5 +1,4 @@
 package cn.hl.vo;
-/**/
 public class User {
 	private String name;
 	private int age;
