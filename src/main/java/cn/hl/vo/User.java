@@ -21,9 +21,5 @@ public class User {
 		this.age = age;
 	}
 	
-	public void setAge(int age) {
-		this.age = age;
 }
-	
-	
-}
+
