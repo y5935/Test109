@@ -1,10 +1,5 @@
 package cn.hl.vo;
-/**
- * 
- * User entity
- * @author Lens
- *
- */
+
 public class User {
 	private String name;
 	private int age;
