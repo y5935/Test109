@@ -12,14 +12,9 @@ public class User {
 	public int getAge() {
 		return age;
 	}
-	public void setAge(int age) {
-		this.age = age;
-	}
-	public User(String name, int age) {
-		super();
-		this.name = name;
-		this.age = age;
-	}
+
+
+
 	
 	
 	
