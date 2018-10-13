@@ -13,10 +13,5 @@ public class User {
 		return age;
 	}
 
-
-
-	
-	
-	
 }
 
